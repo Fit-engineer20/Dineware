@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Dineware/static/css/main.7a7dad68.chunk.css",
-    "main.js": "/Dineware/static/js/main.5a711b08.chunk.js",
-    "main.js.map": "/Dineware/static/js/main.5a711b08.chunk.js.map",
+    "main.js": "/Dineware/static/js/main.9131061e.chunk.js",
+    "main.js.map": "/Dineware/static/js/main.9131061e.chunk.js.map",
     "runtime-main.js": "/Dineware/static/js/runtime-main.305db8a2.js",
     "runtime-main.js.map": "/Dineware/static/js/runtime-main.305db8a2.js.map",
     "static/js/2.5411dabc.chunk.js": "/Dineware/static/js/2.5411dabc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.305db8a2.js",
     "static/js/2.5411dabc.chunk.js",
     "static/css/main.7a7dad68.chunk.css",
-    "static/js/main.5a711b08.chunk.js"
+    "static/js/main.9131061e.chunk.js"
   ]
 }
