@@ -37,7 +37,7 @@ const ContextCart = () => {
     <>
       <header>
         <div className="continue-shopping">
-          <a className="arrow-icon" href="/"><i class="fas fa-arrow-left fa-2x"></i></a>
+          <a className="arrow-icon" href="/Dineware/"><i class="fas fa-arrow-left fa-2x"></i></a>
           <h3>Continue shopping</h3>
         </div>
 
