@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Tangerine:wght@700&display=swap');
+.footer{
+    background-color:#2a292b;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.logo{
+    font-family: 'Tangerine', cursive;
+    font-size: 4rem;
+}
+
+.foot-col{
+    color:#898989;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.icon-div{
+    margin-top:20px;
+}
+.icons{
+    letter-spacing: 30px; 
+    color:#898989;
+}
+.icons:hover{
+    color:#7DEDFF;
+}
+.footer-hr{
+    width:20%;
+    border-top: 2px solid #7DEDFF;
+    opacity:1;
+}
+.col-head{
+    color:#f5f4f4;
+}
+.foot-list{
+    list-style-type:none;
+    padding-left:0;
+}
+.foot-links{
+    color:#898989;
+    text-decoration:none;
+}
+.foot-links:hover{
+    color:#7DEDFF;
+    text-decoration:none; 
+}
+@media(max-width:900px){
+    .col-head{
+        font-size:17px;
+    }
+    .logo{
+        font-size:40px;
+    }
+    .footer{
+        padding-top:20px;
+        padding-bottom:10px;
+    }
+}
