@@ -16,9 +16,9 @@ function Navbar()
         </button>
         <div className="collapse navbar-collapse " id="navbarNavAltMarkup">
         <div className="navbar-nav list">
-            <NavLink className="nav-link" exact activeClassName="active_class" to="/" >Home</NavLink>
-            <NavLink className="nav-link" exact activeClassName="active_class" to="/about" >About Us</NavLink>
-            <NavLink className="nav-link" exact activeClassName="active_class" to="/featured" >Featured</NavLink>
+            <NavLink className="nav-link" exact activeClassName="active_class" to="/Dineware/" >Home</NavLink>
+            <NavLink className="nav-link" exact activeClassName="active_class" to="/Dineware/about" >About Us</NavLink>
+            <NavLink className="nav-link" exact activeClassName="active_class" to="/Dineware/featured" >Featured</NavLink>
         </div>
         </div>
     </div>

@@ -29,7 +29,7 @@ function Home(){
 
           {/* Header section start */}
           <section id="header" style={{
-                                       backgroundImage: "url(/images/top.jpg)",
+                                       backgroundImage: "url(/Dineware/images/top.jpg)",
                                        height: "100%",
                                        backgroundPosition: "center",
                                        backgroundRepeat: "no-repeat",
@@ -37,7 +37,7 @@ function Home(){
                                       }} >
           <h1 className="brand">DineWare</h1>
 
-          <Link className="cart" to="/cart"><i className="fas fa-shopping-bag fa-2x"></i></Link>
+          <Link className="cart" to="/Dineware/cart"><i className="fas fa-shopping-bag fa-2x"></i></Link>
 
           <div className="container-fluid top">
            <h1 className="main-heading">"Be able to set a table so that you feel like you're dining"</h1>
